@@ -13,7 +13,7 @@ not yet...
 1. CS50 video course
 2. Some videos on youtube about HTML and css
 
-№№ Language:
+## Language:
 * __Russian__ - native speaker
 * __English__ - Pre-Intermediate – А2/В1.
 * __Polish__ - Basic
